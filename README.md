@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning C#<br>🎯 Goals: Being fluent in C#<br>🎲 Fun fact: Did you know that 80 % of E-Mails are spam?</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C#<br>🎯 Goals: Being fluent in C#<br>🎲 Fun fact: Did you know that 80 % of E-Mails are spam?</p>
 
 ###
 
