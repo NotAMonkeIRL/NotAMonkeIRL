@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C# and holy C<br>🎯 Goals: Creating an OS<br>🎲 Fun fact: Did you know that 80 % of E-Mails are spam?</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C#<br>🎯 Goals: Creating an OS<br>🎲 Fun fact: Did you know that 80 % of E-Mails are spam?</p>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/refs/heads/main/files/pictures/pl/CSharp.png" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/refs/heads/main/files/pictures/pl/HC.webp" height="40" alt="holy c logo"  />
+  <img src="https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/refs/heads/main/files/pictures/pl/HC.png" height="40" alt="hc logo"  />
 </div>
 
 ###
